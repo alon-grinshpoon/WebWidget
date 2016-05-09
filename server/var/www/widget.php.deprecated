@@ -1,0 +1,11 @@
+<?php echo $_GET['callback'] ?>({
+  product_id_1: "1614eed5-e7b2-426b-b686-7214e5d4ecd1",
+  product_name_1: "Good Vibes Only Mantra Socks",
+  product_price_1: "20.00",
+  product_id_2: "bd3e6116-24da-4ed8-87a4-9ccc264a84ea",
+  product_name_2: "SOMA WATER FILTER PITCHER, 10-CUP",
+  product_price_2: "39.99",
+  product_id_3: "bd3e6116-24da-4ed8-87a4-9ccc264a84ea",
+  product_name_3: "BLUE BOTTLE LOVE ~ THE WATER CODE",
+  product_price_3: "25.00"
+});
